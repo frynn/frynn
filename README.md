@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frynn
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: e-mail - sergey.matus.off@gmail.com
 
 <!---
